@@ -1,0 +1,6 @@
+{
+  "name": "Sorcerer AR",
+  "description": "An augmented reality app that tracks your hand and draws a Dr. Strange magic shield on your palm.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
